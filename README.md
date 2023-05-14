@@ -15,7 +15,6 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' width='45px' height='40px'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/800px-Python_logo_01.svg.png' width='40px' height='40px'>
   <img src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' width='40px' height='40px'>
-  <img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png' width='50px' height='40px'>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weronikaglazer&" alt="stats" /></p>
