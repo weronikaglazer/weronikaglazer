@@ -2,7 +2,7 @@
 
 - 📚 I'm a student of Computer Science at University of Economics in Cracow, Poland 🇵🇱
 - 👀 I’m also interested in learning foreign languages, dance and literature
-- 🌱 I’m currently learning <b>React and SQL</b>
+- 🌱 I’m currently learning <b>React</b>
 - 🌍 Languages spoken: 🇵🇱🇬🇧🇫🇷🇰🇷🇸🇪
 - 📫 How to reach me: weronikaglazer@gmail.com
 - 👉🏻 Visit my LinkedIn profile: https://www.linkedin.com/in/weronika-glazer/
