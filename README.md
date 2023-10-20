@@ -1,8 +1,8 @@
 <h1>👋 Hello, I’m Weronika Glazer! 👩🏻‍💻</h1>
 
 - 📚 I'm a student of Computer Science at University of Economics in Cracow, Poland 🇵🇱
-- 👀 I’m also interested in learning foreign languages, dance and literature
-- 🌱 I’m currently learning <b>React</b>
+- 👀 I’m also interested in learning foreign languages, literature, travelling and running
+- 🌱 I’m currently learning <b>Elixir, React and TypeScript</b>
 - 🌍 Languages spoken: 🇵🇱🇬🇧🇫🇷🇰🇷🇸🇪
 - 📫 How to reach me: weronikaglazer@gmail.com
 - 👉🏻 Visit my LinkedIn profile: https://www.linkedin.com/in/weronika-glazer/
