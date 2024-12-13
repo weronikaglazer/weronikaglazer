@@ -2,7 +2,7 @@
 
 - 📚 I'm a student of Computer Science at University of Economics in Cracow, Poland 🇵🇱
 - 👀 I’m also interested in learning foreign languages, literature, travelling and running
-- 🌱 I’m currently working as a Junior Backend Developer and learning <b>Elixir and Phoenix</b>
+- 🌱 I’m currently working as an Application Developer
 - 🌍 Languages spoken: 🇵🇱🇬🇧🇫🇷🇰🇷🇸🇪
 - 📫 How to reach me: weronikaglazer@gmail.com
 - 👉🏻 Visit my LinkedIn profile: https://www.linkedin.com/in/weronika-glazer/
